@@ -1,4 +1,4 @@
-#Quick star
+#Quick start
 
 If you’re just looking for a quick way to try out Elastic APM, you can easily get started with Docker. Just follow the steps below.
 
